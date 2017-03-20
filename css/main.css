@@ -1183,6 +1183,7 @@ pre .javascript .function {
   border: 1px solid #ddd;
 }
 .posts-expand .fancybox img {
+  border: 0;
   margin: 0 auto;
 }
 @media (max-width: 767px) {
@@ -1685,7 +1686,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #afffff;
+  background: #ac875e;
 }
 .links-of-blogroll {
   font-size: 13px;
